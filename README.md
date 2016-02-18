@@ -1,6 +1,6 @@
 # Learning Semantic-UI
 
-Basic project going through learning Semantic-UI. 
+Ember-CLI project for learning how to work with the Semantic UI framework. 
 
 
 ## Installation
