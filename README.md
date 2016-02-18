@@ -17,7 +17,8 @@ Basic project going through learning Semantic-UI.
 http://semantic-ui.com/views/card.html
 
 ### Card Flipping
-https://davidwalsh.name/css-flip
 http://codepen.io/jjhesk/pen/lHdCA
-https://desandro.github.io/3dtransforms/docs/card-flip.html
 
+https://davidwalsh.name/css-flip
+
+https://desandro.github.io/3dtransforms/docs/card-flip.html
